@@ -1,5 +1,7 @@
-# Trabajo Programacion II |3er Trimestre|
+# Trabajo Programacion II (AUTOS AL SOPI) |3er Trimestre|
 *** 
+##### Nombre de alumno:Juan Cruz Savino.
+##### Curso: 5toC
 ***
 ##### El proyecto se trata de hacer una pagina web con html, JavaScript y CSS.
 
