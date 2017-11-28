@@ -17,8 +17,18 @@
 
 ## Screenshots
 
+### Para poder logearte tienen que hacer click en el boton rojo de google.
+
 ![Sin titulo](https://github.com/JuanSavino/Proyecto-html/blob/master/login.png)
+
+### En la parte superior de la pagina podemos ver el titulo , abajo del mismo un boton que te redirecciona al instagram de la pagina y un bonito carrousel.
 
 ![Sin titulo](https://github.com/JuanSavino/Proyecto-html/blob/master/Carrouser.png)
 
+### Mas abajo esta lo mas importante que son las fotos de los autos y sus respectivas caracteristicas.
+
 ![Sin titulo](https://github.com/JuanSavino/Proyecto-html/blob/master/imagenes.png)
+
+## Dependencias
+
+##### Mi proyecto depende de la libreria de boostrap , y de firebase para el login.
