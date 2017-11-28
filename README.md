@@ -9,4 +9,8 @@
 ***
 ## Proyecto
 ##### Pagina para ver las mejores fotos de autos con mucha calidad y ver la descripcion de cada uno , esta pagina no es para cualquiera , si te gustan los autos , estas en el lugar indicado.
-
+***
+## Como se usa la pagina?
+##### -Logeate.
+##### -Disfruta de las imagenes.
+##### -Puedes descargarlas haciendo click derecho Guardar IMG como...
